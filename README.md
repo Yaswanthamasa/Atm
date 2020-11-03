@@ -1,5 +1,5 @@
 # Atm
-This program is based on a menu-driven system and the input is taken from the user in the form of numerical system                                                                 The code is distributed across 5 classes which are main,Account,Customer,CashDispenser,ATM
+This program is based on a menu-driven system and the input is taken from the user in the form of numerical system                                                                 The code is distributed across 5 classes which are main,Account,Customer,CashDispenser,ATM.                                                                                         
 The instructions are given for the various input in the following order:                                                                                                           
 1.First in the main it is asked that whether the atm is on or not.                                                                                                                 
 2.And the customer's details taken as input and we will verify the account number and pin number                                                                                   
