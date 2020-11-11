@@ -3,7 +3,6 @@ package Atm;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-import java.util.Scanner;
 class Account {
 	 private int AccountNumber;
 	 private String name;
