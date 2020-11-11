@@ -14,13 +14,7 @@ public class main {
 		ATM atm1 = new ATM(cashdispenser1);
 		
 	     Scanner scan = new Scanner(System.in);
-	    /* List<Account> accountList = new ArrayList<>();
-	     Account acct1 = new Account(12456, 54321, "7659094557", 10000.0);
-	     Account acct2 = new Account(98765, 56789, "9494142062", 25000.0);
-	     Account acct3 = new Account(34567,12345, "9849785784", 50000);
-	     accountList.add(acct1);
-	     accountList.add(acct2);
-	     accountList.add(acct3);*/
+	   
 	    //creating new array of 3 accounts
 	     Account accounts[] = new Account[3];
 	     accounts[0] = new Account(12456,54321,"7659094557",10000);  
