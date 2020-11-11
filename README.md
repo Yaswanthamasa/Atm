@@ -9,8 +9,8 @@ The instructions are given for the various input in the following order:
 6.The functionalities of main are                                                                                                                                                  
 i)Balance enquiry                                                                                                                                                                  
 ii)withdraw amount                                                                                                                                                                 
-iii)deposit amount
-iv)Mini Statement
-v)Exit                                                                                                                                                              
-I used the ArrayList for the customers transaction data and i used the admin class for Atm cash limit.
+iii)deposit amount                                                                                                                                                                 
+iv)Mini Statement                                                                                                                                                                   
+v)Exit                                                                                                                                                                            
+I used the ArrayList for the customers transaction data and i used the admin class for Atm cash limit.                                                                             
 In the withdraw option i defined the denominations of notes
