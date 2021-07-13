@@ -73,14 +73,14 @@ public class main {
 	
 		   //if account not present
 			if(ac == null) {
-		     	 System.out.println("Invalid Account");	 
+		     	 System.out.println("Invalid Account\n");	 
 	     }else //if account is present
 	     { //printing menu
 	    	 //sending OTP
 	    	 String otp = OTP();
-		     System.out.println("OTP : " + otp +" is sent to your mobile");
+		     System.out.println("OTP : " + otp +" is sent to your mobile\n");
 	    	 do {  
-	    		 System.out.println("Main menu\n" + "1.Balance Enquiry\n" + "2.Withdraw\n" + "3.Deposit\n" + "4.Mini Statement\n" + "5.Transfer amount\n" + "6.Exit");
+	    		 System.out.println("Main menu\n" + "1.Balance Enquiry\n" + "2.Withdraw\n" + "3.Deposit\n" + "4.Mini Statement\n" + "5.Transfer amount\n" + "6.Exit\n");
 	    		 //Asking user to enter choice
 	    		 System.out.println("Enter your choice: ");
 	    		 choice = scan.nextInt();
@@ -178,7 +178,7 @@ public class main {
 	    		 }break;
 	    		 case 6:
 	    		 {
-	    			 System.out.println("Thank You visit again....");
+	    			 System.out.println("Thank You visit again....\n");
 	    				 break;
 	    		 }
 	    		 default: // if any other choice entered
